@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Shrikhand&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #ffcf8e;
+    color: white;
+    overflow: hidden;
+}
+
+.titulo-destaque{
+    color:#ff757d;
+}
+.apresentacao{
+    margin: 5% 10%;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    min-height: 70vh;
+}
+.apresentacao__conteudo{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+    font-family:"Shrikhand", system-ui; ;
+}
+.apresentacao__conteudo__texto{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+}
+.apresentacao__links{
+    display: flex;
+    justify-content: space-between;
+}
+.apresentacao__links__link{
+    background-color: #ff757d;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight:  600px; ;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+img {
+    width: 35%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    border: none;
+}
+footer{
+    color: white;
+    background-color: #ff757d;
+    padding: 20px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
