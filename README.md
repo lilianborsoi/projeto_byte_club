@@ -23,7 +23,7 @@ Criar um site simples para me apresentar e compartilhar meus links sociais.
 **Recursos:**
 
 - Imagens: O arquivo `img.jpg` foi usado para ilustrar a página.
--  ![Minha imagem](imagens/minha_imagem.jpg)
+-  (imagens/imagem_site.jpg)
 
 **Observações:**
 
