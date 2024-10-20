@@ -39,4 +39,9 @@ Agradeço ao Byte Club pela oportunidade de aprender e desenvolver este projeto.
 
 Sinta-se à vontade para contribuir com o projeto, adicionando novas funcionalidades ou aprimorando o código existente. 
 
+**Links importantes:**
+- Icones: https://www.flaticon.com/br/
+- Imagens para projeto: https://br.freepik.com/
+
+  
 Espero que gostem do resultado! 😄
